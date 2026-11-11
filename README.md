@@ -1,5 +1,8 @@
-<h1 align="center">Hola, soy Rodrigo Serratosa García 👋</h1>
-<h3 align="center">Estudiante de Ingeniería Informática · Universidad Complutense de Madrid</h3>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Rodrigo Serratosa García — Ingeniería Informática UCM"/>
+</p>
+
+<h3 align="center">Hola, soy Rodrigo 👋 Estudiante de Ingeniería Informática en la Universidad Complutense de Madrid</h3>
 
 <p align="center">
   <a href="https://github.com/rodriserratosa"><img src="https://img.shields.io/badge/GitHub-rodriserratosa-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -28,4 +31,6 @@
 
 ---
 
-<p align="center"><i>Gracias por pasarte por mi perfil 🚀</i></p>
+<p align="center">
+  <img src="assets/footer.svg" width="100%" alt="Continuará... Gracias por tu visita"/>
+</p>
