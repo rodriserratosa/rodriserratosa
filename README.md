@@ -25,7 +25,7 @@
 
 ## Contacto
 
-¿Quieres hablar de algún proyecto o proponerme algo? Puedes encontrarme aquí en GitHub como **[@rodriserratosa](https://github.com/rodriserratosa)**.
+De momento solo en GitHub como **[@rodriserratosa](https://github.com/rodriserratosa)**.
 
 ---
 
